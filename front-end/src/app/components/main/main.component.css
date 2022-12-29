@@ -1,0 +1,37 @@
+* {
+    background: url("../../../assets/background-main.jpg") no-repeat center;
+    background-attachment: fixed;
+}
+
+body {
+    filter: brightness(50%);
+}
+
+/***** SECTION *****/
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/***** IMAGEN *****/ 
+
+figure {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+figure img {
+    width: 650px;
+    margin: 100px 0;
+    outline: 30px solid #444;
+}
+
+figure>figcaption {
+    font-style: italic;
+    font-weight: 200;
+    font-size: 20px;
+    text-align: center;
+}

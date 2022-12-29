@@ -1,0 +1,23 @@
+.row {
+    padding: 5%;
+    font-size: 1.8vw;
+    font-family: 'Dosis', 'Trebuchet MS', 'Lucida Sans', Arial, sans-serif;
+    color: #eee;
+}
+
+img {
+    width: 50px;
+}
+
+ul {
+    list-style:none;
+}
+
+ul>li {
+    display: inline-flex;
+    padding: 0 1%;
+}
+
+#redes {
+    text-align: center;
+}
