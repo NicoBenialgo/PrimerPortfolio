@@ -8,12 +8,7 @@
 }
 
 header {
-    background-color: rgb(196, 196, 196);
-    border-bottom: 5px solid rgb(34, 34, 34);
-}
-
-main {
-    padding: 10% 20vw;
+    background-color: #222;
 }
 
 footer {
